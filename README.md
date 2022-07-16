@@ -1,3 +1,9 @@
+Official Documentation:
+
+https://github.com/oven-sh/bun#bunserve---fast-http-server
+
+
+
 CREATE TABLE "user" (
 	"ID"	INTEGER,
 
